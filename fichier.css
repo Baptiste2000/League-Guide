@@ -1,0 +1,11 @@
+body{
+background-image:url('imagefond.jpg')
+;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+a:link {color:#16DEFF}
+a:visited {color:darkgoldenrod}
+
+.formulaire {color:#16DEFF}
